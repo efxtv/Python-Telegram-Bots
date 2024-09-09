@@ -1,2 +1,2 @@
 # Python-Telegram-Bots
-Here we will list all the python bots project for telegram bot. Must share your ideas with us.
+Please contact admins and share your ideas with us. [Contact admins](https://t.me/efxtv)
