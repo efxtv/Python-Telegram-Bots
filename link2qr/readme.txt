@@ -1,1 +1,2 @@
-hello
+pip install qrcode
+pip install pillow
